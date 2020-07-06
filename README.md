@@ -10,3 +10,4 @@ This is an example view of the price tracker in the Excel sheet:
 
 ## Installation and Usage 
 Coming soon.
+
